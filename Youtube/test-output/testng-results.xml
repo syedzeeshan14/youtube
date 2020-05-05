@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="16" started-at="2020-05-05T06:51:58Z" finished-at="2020-05-05T06:51:58Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="16" started-at="2020-05-05T06:51:58Z" finished-at="2020-05-05T06:51:58Z">
+      <class name="package1.YT2">
+        <test-method status="PASS" signature="tt()[pri:0, instance:package1.YT2@6a01e23]" name="tt" duration-ms="0" started-at="2020-05-05T12:21:58Z" finished-at="2020-05-05T12:21:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tt -->
+      </class> <!-- package1.YT2 -->
+      <class name="package1.YT1">
+        <test-method status="PASS" signature="Beforetest()[pri:0, instance:package1.YT1@4b44655e]" name="Beforetest" is-config="true" duration-ms="0" started-at="2020-05-05T12:21:58Z" finished-at="2020-05-05T12:21:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Beforetest -->
+        <test-method status="PASS" signature="BeforeSuite()[pri:0, instance:package1.YT1@4b44655e]" name="BeforeSuite" is-config="true" duration-ms="0" started-at="2020-05-05T12:21:58Z" finished-at="2020-05-05T12:21:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeSuite -->
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:package1.YT1@4b44655e]" name="BeforeMethod" is-config="true" duration-ms="0" started-at="2020-05-05T12:21:58Z" finished-at="2020-05-05T12:21:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="BeforeClass()[pri:0, instance:package1.YT1@4b44655e]" name="BeforeClass" is-config="true" duration-ms="0" started-at="2020-05-05T12:21:58Z" finished-at="2020-05-05T12:21:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method status="PASS" signature="AfterTest()[pri:0, instance:package1.YT1@4b44655e]" name="AfterTest" is-config="true" duration-ms="0" started-at="2020-05-05T12:21:58Z" finished-at="2020-05-05T12:21:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+        <test-method status="PASS" signature="tt()[pri:0, instance:package1.YT1@4b44655e]" name="tt" duration-ms="0" started-at="2020-05-05T12:21:58Z" finished-at="2020-05-05T12:21:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tt -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:package1.YT1@4b44655e]" name="AfterMethod" is-config="true" duration-ms="0" started-at="2020-05-05T12:21:58Z" finished-at="2020-05-05T12:21:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="AfterClass()[pri:0, instance:package1.YT1@4b44655e]" name="AfterClass" is-config="true" duration-ms="0" started-at="2020-05-05T12:21:58Z" finished-at="2020-05-05T12:21:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+        <test-method status="PASS" signature="AfterSuite()[pri:0, instance:package1.YT1@4b44655e]" name="AfterSuite" is-config="true" duration-ms="0" started-at="2020-05-05T12:21:58Z" finished-at="2020-05-05T12:21:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterSuite -->
+      </class> <!-- package1.YT1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
